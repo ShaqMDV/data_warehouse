@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+pyarrow
+psycopg2-binary
+pymongo
+apache-airflow
+prefect
+dbt-core
+great-expectations
